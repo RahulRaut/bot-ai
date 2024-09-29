@@ -35,7 +35,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/MayurDange15/BOT-AI.git
+   git clone https://github.com/RahulRaut/bot-ai.git
    cd BOT-AI
    ```
 
@@ -73,7 +73,4 @@ To run this project locally, follow these steps:
 
 If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
-## Contact
 
-For any questions or suggestions, please contact [Mayur](mailto:mayurdange15081996@gmail.com).
-# bot-ai
